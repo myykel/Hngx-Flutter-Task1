@@ -11,3 +11,45 @@ GeneratedPluginRegistrant.java
 key.properties
 **/*.keystore
 **/*.jks
+
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+/build/
+.dart_tool/
+.pub-cache/
+/.idea/
+.vscode/
+/.metadata
+
+# IDE files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Xcode files
+*.xcworkspace/
+*.xcuserdatad/
+ios/Pods/
+ios/Podfile.lock
+
+# Android files
+/android/app/.externalNativeBuild
+/android/app/build/
+/android/build/
+/android/gradle/
+/android/local.properties
+
+# macOS (if you're not targeting macOS)
+macos/Flutter/ephemeral/.app_bundle
+
+# Linux (if you're not targeting Linux)
+linux/flutter/ephemeral/.application
+
+# Windows (if you're not targeting Windows)
+windows/flutter/ephemeral/.plugin_symlinks
+.igitignore
