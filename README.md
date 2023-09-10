@@ -3,7 +3,7 @@
 # Introduction:
 
 This is an app built in flutter. The functionality of this app is to displays slack profile image, it has an in app WebView that loads a user's GitHub profile
-Appetize link:
+Appetize link: https://appetize.io/app/qnero3td6shqwazuz2fzt6stb4?device=pixel4&osVersion=11.0&scale=75
 
 # How to Install this App:
 
